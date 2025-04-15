@@ -9,7 +9,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sampurng)
 [![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github)](https://www.github.com/sampurng)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/10673982/sampurna)
-[![Mail](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:sampurn.workg@gmail.com)
+[![Leetcode](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sampurng/)
+[![Mail](https://img.shields.io/badge/Mail-indigo?style=for-the-badge&logo=gmail)](mailto:sampurn.workg@gmail.com)
+
+
 
 ## About me
 
