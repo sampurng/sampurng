@@ -17,7 +17,8 @@
 ## About me
 
 - I'm a graduate research assitant @ Northeastern University, working on transformers and Computer Vision.
-- I'm a full stack developer, with 2+ yoe @ Adobe.
+- I'm a full stack developer with a lot of interest in AI.
+- I have 2+ yoe @ Adobe.
 - I'm passionate about writing code that can bring change and help people. 
 - You can find me playing tennis 🎾, video games 🎮 or building open source software ⚙️🛠️ in my free time. 
 
