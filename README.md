@@ -29,9 +29,13 @@
 ## What I have built
 
 - [![AutonomousDriving](https://img.shields.io/badge/Autonomous_Driving_:_An_ongoing_reasearch_to_get_predicitve_driving_techniques_without_any_LiDAR_assitance-red?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving) 
-- [![Cloud App](https://img.shields.io/badge/Cloud_App_:_A_CI/CD_workflow_with_automated_infra_provisioning_and_deployments_on_AWS-grey?style=for-the-badge&logo=aws)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
-- [![Swasth](https://img.shields.io/badge/Swasth_:_A_holistic_postgres_DB_to_track_smartwatch_health_metrics-black?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
-- [![BT Cast](https://img.shields.io/badge/BT_Cast_:_A_machine_learning_model_to_predict_future_Bitcoin_prices-violet?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
+- [![Cloud App](https://img.shields.io/badge/Cloud_App_:_A_CI/CD_workflow_with_automated_infra_provisioning_and_deployments_on_AWS-grey?style=for-the-badge&logo=aws)](https://github.com/orgs/cato-ai/repositories)
+- [![Swasth](https://img.shields.io/badge/Swasth_:_A_holistic_postgres_DB_to_track_smartwatch_health_metrics-black?style=for-the-badge&logo=)](https://github.com/sampurng/Swasth)
+- [![BT Cast](https://img.shields.io/badge/BT_Cast_:_A_machine_learning_model_to_predict_future_Bitcoin_prices-violet?style=for-the-badge&logo=)](https://github.com/sampurng/BTCast/tree/main)
+- [![BigData-Healthify](https://img.shields.io/badge/Healthify_:_A_big_data_health_API_indexer_with_elasticsearch,_redis,_and_rabbitmq-blue?style=for-the-badge&logo=)](https://github.com/sampurng/big-data-planning)
+- [![iceseeyou](https://img.shields.io/badge/ICEseeyou:_An_AI_powered_crowd_sourced_ICE_sighting_heatmap_app-beige?style=for-the-badge&logo=)](https://github.com/sampurng/big-data-planning)
+
+
 
 
 ## My tech stack
