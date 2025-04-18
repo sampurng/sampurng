@@ -43,6 +43,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,python,cpp,dynamodb,elasticsearch,nextjs,bash,nodejs,npm,mongo,postgres,postman,pytorch,rabbitmq,tensorflow,terraform,ts,ubuntu,vscode,rust,docker,spring,js,html,css&perline=12)](https://skillicons.dev)
 
+##
+
+<p align="center">
+  <b>AI can write code, I can understand and debug it.</b><br/><br/>
+    <b>-Sampurna</b>
+</p>
 
 <!--
 **sampurng/sampurng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
