@@ -28,24 +28,15 @@
 
 ## What I have built
 
-<table>  
-
-- [![AutonomousDriving](https://img.shields.io/badge/Autonomous_Driving__An_ongoing_reasearch_to_get_predicitve_driving_techniques_withoput_any_LiDAR_assitance-red?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving) 
-- [![Cloud App](https://img.shields.io/badge/Cloud_App-grey?style=for-the-badge&logo=aws)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
-- [![Swasth](https://img.shields.io/badge/Swasth-black?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
-- [![BT Cast](https://img.shields.io/badge/BT_Cast-violet?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
+- [![AutonomousDriving](https://img.shields.io/badge/Autonomous_Driving_:_An_ongoing_reasearch_to_get_predicitve_driving_techniques_without_any_LiDAR_assitance-red?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving) 
+- [![Cloud App](https://img.shields.io/badge/Cloud_App_:_A_CI/CD_workflow_with_automated_infra_provisioning_and_deployments_on_AWS-grey?style=for-the-badge&logo=aws)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
+- [![Swasth](https://img.shields.io/badge/Swasth_:_A_holistic_postgres_DB_to_track_smartwatch_health_metrics-black?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
+- [![BT Cast](https://img.shields.io/badge/BT_Cast_:_A_machine_learning_model_to_predict_future_Bitcoin_prices-violet?style=for-the-badge&logo=)](https://github.com/akshaybharadwaj11/Autonomous-Driving)
 
 
-</table>
-## My tech staack
+## My tech stack
 
-[![JS](https://img.shields.io/badge/_-white?style=for-the-badge&logo=javascript&logoSize=auto)]()
-[![C++](https://img.shields.io/badge/-black?style=for-the-badge&logo=cplusplus)]()
-[![Java](https://img.shields.io/badge/-blue?style=for-the-badge&logo=java)]()
-[![TS](https://img.shields.io/badge/-red?style=for-the-badge&logo=typescript)]()
-[![Rust](https://img.shields.io/badge/-grey?style=for-the-badge&logo=rust)]()
-[![Python](https://img.shields.io/badge/-pink?style=for-the-badge&logo=python)]()
-[![Postgres](https://img.shields.io/badge/-white?style=for-the-badge&logo=postgresql)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,react,python,cpp,dynamodb,elasticsearch,nextjs,bash,nodejs,npm,mongo,postgres,postman,pytorch,rabbitmq,tensorflow,terraform,ts,ubuntu,vscode,rust,docker,spring,js,html,css&perline=12)](https://skillicons.dev)
 
 
 <!--
